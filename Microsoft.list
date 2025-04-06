@@ -669,3 +669,4 @@ DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
+DOMAIN-SUFFIX,1d.tlu.dl.delivery.mp.microsoft.com
