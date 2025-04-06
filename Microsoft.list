@@ -670,3 +670,4 @@ DOMAIN-KEYWORD,skydrive
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
 DOMAIN-SUFFIX,1d.tlu.dl.delivery.mp.microsoft.com
+IP-CIDR,20.219.237.180/24,no-resolve
