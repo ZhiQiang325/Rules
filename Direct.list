@@ -7,10 +7,6 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
-DOMAIN-SUFFIX,0.cn.pool.ntp.org
-DOMAIN-SUFFIX,1.cn.pool.ntp.org
-DOMAIN-SUFFIX,2.cn.pool.ntp.org
-DOMAIN-SUFFIX,3.cn.pool.ntp.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
