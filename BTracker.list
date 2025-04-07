@@ -1,0 +1,11 @@
+# 拦截 BT Tracker 走直连，避免走代理炸流量
+DOMAIN-SUFFIX,opentrackr.org
+DOMAIN-SUFFIX,openbittorrent.com
+DOMAIN-SUFFIX,bt4g.com
+DOMAIN-SUFFIX,fast-download.xyz
+DOMAIN-SUFFIX,internetwarriors.net
+DOMAIN-SUFFIX,leechers-paradise.org
+DOMAIN-SUFFIX,torrent.eu.org
+DOMAIN-SUFFIX,publicbt.com
+DOMAIN-SUFFIX,demonii.com
+DOMAIN-KEYWORD,tracker
