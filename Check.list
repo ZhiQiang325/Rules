@@ -62,4 +62,5 @@ DOMAIN-SUFFIX,cdn.botfaqtor.ru
 DOMAIN-SUFFIX,gw.botfaqtor.ru
 DOMAIN-SUFFIX,5-182-5-41.botfaqtor.ru
 DOMAIN-SUFFIX,api-main.whox.is
+DOMAIN-SUFFIX,de.foursquare.com
 IP-CIDR,142.251.215.0/24,no-resolve
