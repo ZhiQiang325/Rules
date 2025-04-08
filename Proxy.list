@@ -841,6 +841,7 @@ DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,zh.airbnb.com
 DOMAIN-SUFFIX,www.airbnb.com
 DOMAIN-SUFFIX,a0.muscache.com
+DOMAIN-SUFFIX,www.expedia.de
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
