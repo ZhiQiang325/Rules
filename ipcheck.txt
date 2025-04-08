@@ -57,3 +57,7 @@
 ||vultr.com^
 ||whatismyipaddress.com^
 ||whoer.net^
+||cdn.botfaqtor.ru^
+||gw.botfaqtor.ru^
+||5-182-5-41.botfaqtor.ru^
+||api-main.whox.is^
