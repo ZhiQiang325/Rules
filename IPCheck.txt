@@ -61,3 +61,5 @@
 ||gw.botfaqtor.ru^
 ||5-182-5-41.botfaqtor.ru^
 ||api-main.whox.is^
+||de.foursquare.com^
+||www.expedia.de^
