@@ -61,4 +61,12 @@
 ||gw.botfaqtor.ru^
 ||5-182-5-41.botfaqtor.ru^
 ||api-main.whox.is^
+||a.academia-assets.com^
+||a0.muscache.com^
+||zh.airbnb.com^
+||www.airbnb.com^
+||www.expedia.de^
+||www.academia.edu^
 ||de.foursquare.com^
+||sb.scorecardresearch.com^
+||st.downdetectorapi.com^
