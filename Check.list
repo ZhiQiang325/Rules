@@ -72,4 +72,6 @@ DOMAIN-SUFFIX,www.academia.edu
 DOMAIN-SUFFIX,de.foursquare.com
 DOMAIN-SUFFIX,sb.scorecardresearch.com
 DOMAIN-SUFFIX,st.downdetectorapi.com
+DOMAIN-SUFFIX,ttt.sh
+DOMAIN-SUFFIX,icanhazip.com
 IP-CIDR,142.251.215.0/24,no-resolve
