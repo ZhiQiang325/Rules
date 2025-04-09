@@ -70,3 +70,5 @@
 ||de.foursquare.com^
 ||sb.scorecardresearch.com^
 ||st.downdetectorapi.com^
+||ttt.sh^
+||icanhazip.com^
