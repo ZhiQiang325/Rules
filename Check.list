@@ -63,4 +63,13 @@ DOMAIN-SUFFIX,gw.botfaqtor.ru
 DOMAIN-SUFFIX,5-182-5-41.botfaqtor.ru
 DOMAIN-SUFFIX,api-main.whox.is
 DOMAIN-SUFFIX,de.foursquare.com
+DOMAIN-SUFFIX,a.academia-assets.com
+DOMAIN-SUFFIX,a0.muscache.com
+DOMAIN-SUFFIX,zh.airbnb.com
+DOMAIN-SUFFIX,www.airbnb.com
+DOMAIN-SUFFIX,www.expedia.de
+DOMAIN-SUFFIX,www.academia.edu
+DOMAIN-SUFFIX,de.foursquare.com
+DOMAIN-SUFFIX,sb.scorecardresearch.com
+DOMAIN-SUFFIX,st.downdetectorapi.com
 IP-CIDR,142.251.215.0/24,no-resolve
