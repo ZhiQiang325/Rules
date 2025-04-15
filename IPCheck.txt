@@ -72,3 +72,7 @@
 ||st.downdetectorapi.com^
 ||ttt.sh^
 ||icanhazip.com^
+||login.live.com^
+||squareup.com^
+||login.skype.com^
+||slack.com^
