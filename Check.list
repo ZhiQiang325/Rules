@@ -74,8 +74,4 @@ DOMAIN-SUFFIX,sb.scorecardresearch.com
 DOMAIN-SUFFIX,st.downdetectorapi.com
 DOMAIN-SUFFIX,ttt.sh
 DOMAIN-SUFFIX,icanhazip.com
-DOMAIN-SUFFIX,login.live.com
-DOMAIN-SUFFIX,squareup.com
-DOMAIN-SUFFIX,login.skype.com
-DOMAIN-SUFFIX,slack.com
 IP-CIDR,142.251.215.0/24,no-resolve
