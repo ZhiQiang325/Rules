@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,statsigapi.net
 DOMAIN,ocsp.quovadisoffshore.com
 IP-CIDR,3.36.58.0/24,no-resolve
 IP-CIDR,3.251.167.0/24,no-resolve
+IP-CIDR,47.129.86.0/24,no-resolve
 IP-CIDR,54.195.54.0/24,no-resolve
 IP-CIDR,52.215.171.0/24,,no-resolve
 IP-CIDR,54.217.60.0/24,no-resolve
