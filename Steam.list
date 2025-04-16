@@ -56,6 +56,7 @@ DOMAIN-KEYWORD,steamuserimages
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN,ocsp.quovadisoffshore.com
+# Battlefiled2042
 IP-CIDR,3.36.58.0/24,no-resolve
 IP-CIDR,3.251.167.0/24,no-resolve
 IP-CIDR,35.77.32.0/24,no-resolve
