@@ -74,4 +74,5 @@ DOMAIN-SUFFIX,sb.scorecardresearch.com
 DOMAIN-SUFFIX,st.downdetectorapi.com
 DOMAIN-SUFFIX,ttt.sh
 DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,ripe.net
 IP-CIDR,142.251.215.0/24,no-resolve
