@@ -72,3 +72,4 @@
 ||st.downdetectorapi.com^
 ||ttt.sh^
 ||icanhazip.com^
+||ripe.net^
