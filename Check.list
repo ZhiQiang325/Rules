@@ -75,4 +75,5 @@ DOMAIN-SUFFIX,st.downdetectorapi.com
 DOMAIN-SUFFIX,ttt.sh
 DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,ripe.net
+DOMAIN-SUFFIX,ident.me
 IP-CIDR,142.251.215.0/24,no-resolve
