@@ -78,7 +78,6 @@ DOMAIN-SUFFIX,ripe.net
 DOMAIN-SUFFIX,ident.me
 DOMAIN-SUFFIX,mail.yandex.ru
 DOMAIN-SUFFIX,disqus.com
-DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,tumblr.com
 IP-CIDR,142.251.215.0/24,no-resolve
