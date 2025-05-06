@@ -76,7 +76,6 @@
 ||ident.me^
 ||mail.yandex.ru^
 ||disqus.com^
-||skype.com^
 ||disquscdn.com^
 ||tumblr.com^
 ||
