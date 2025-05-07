@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,statsigapi.net
 DOMAIN,ocsp.quovadisoffshore.com
 DOMAIN-SUFFIX,dl.listdl.com
 DOMAIN-SUFFIX,lastwar-serverlist-us-aws-ali.lastwargame.com
+DOMAIN-SUFFIX,te-receiver.lastwar.com
 # Battlefiled2042
 IP-CIDR,3.36.58.0/24,no-resolve
 IP-CIDR,3.251.167.0/24,no-resolve
