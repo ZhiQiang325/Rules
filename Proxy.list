@@ -838,10 +838,10 @@ DOMAIN-SUFFIX,coincola.com
 DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
 DOMAIN-SUFFIX,api.revenuecat.com
-DOMAIN-SUFFIX,zh.airbnb.com
-DOMAIN-SUFFIX,www.airbnb.com
-DOMAIN-SUFFIX,a0.muscache.com
-DOMAIN-SUFFIX,www.expedia.de
+DOMAIN-SUFFIX,jmcomic-zzz.one
+DOMAIN-SUFFIX,jmcomic-zzz.org
+DOMAIN-KEYWORD,18comic
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
