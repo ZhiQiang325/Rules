@@ -841,6 +841,7 @@ DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,jmcomic-zzz.one
 DOMAIN-SUFFIX,jmcomic-zzz.org
 DOMAIN-KEYWORD,18comic
+DOMAIN-SUFFIX,.ru
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
