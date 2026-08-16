@@ -4,8 +4,9 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,msftcomecttest.com
+DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 
 # 域名关键字匹配
@@ -339,7 +340,6 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,smtcdns.com
-DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com
@@ -421,7 +421,6 @@ DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,cloudxns.net
 DOMAIN-SUFFIX,cn163.net
 DOMAIN-SUFFIX,cnblogs.com
-DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,cnmstl.net
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com
@@ -617,8 +616,6 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,flyert.com
 DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,snapdrop.net
@@ -690,7 +687,6 @@ DOMAIN,app.appsflyer.com
 DOMAIN,bdtj.tagtic.cn
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
-DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt3-mtalk.google.com
