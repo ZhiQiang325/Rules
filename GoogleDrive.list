@@ -1,0 +1,23 @@
+# Google Cloud / Google Drive
+# Scope: Google Drive + Google Docs/Sheets/Slides + Drive for desktop
+# Note: intentionally excludes broad shared Google infrastructure such as:
+#       googleapis.com / googleusercontent.com / gstatic.com / accounts.google.com
+#       so those requests can continue to fall through to the general Google policy.
+
+# Google Drive core
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,drive.google.com
+
+# Google Drive content / export endpoints
+DOMAIN,drive.usercontent.google.com
+DOMAIN,drive-data-export.usercontent.google.com
+DOMAIN,drive-data-export-eu.usercontent.google.com
+
+# Drive-integrated editors
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN,sheets.google.com
+DOMAIN,slides.google.com
+
+# Google Drive for desktop
+DOMAIN,fcmconnection.googleapis.com
+DOMAIN,signaler-pa.googleapis.com
