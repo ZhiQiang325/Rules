@@ -1,4 +1,6 @@
-# IP检测/指纹追踪相关域名，走代理防止DNS泄露
+# IP / DNS / 指纹 / 地理位置检测
+# 只保留真正用于检测出口、DNS 泄漏、浏览器指纹和 ASN 的站点；Speedtest 类交给 ♻️ Speedtest。
+
 DOMAIN-SUFFIX,888005.xyz
 DOMAIN-SUFFIX,abrahamjuliot.github.io
 DOMAIN-SUFFIX,addr.tools
@@ -13,10 +15,8 @@ DOMAIN-SUFFIX,browserscan.net
 DOMAIN,checkip.amazonaws.com
 DOMAIN,checkip.dyndns.org
 DOMAIN,checkip.net
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,dnsleaktest.com
-DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fingerprint.com
 DOMAIN-SUFFIX,geoiplookup.io
 DOMAIN-SUFFIX,geoiptool.com
@@ -24,6 +24,8 @@ DOMAIN,httpbin.org
 DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,ident.me
 DOMAIN,ifconfig.me
+DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,ifconfig.io
 DOMAIN-SUFFIX,incolumitas.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip-check.info
@@ -37,6 +39,8 @@ DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ipleak.org
 DOMAIN-SUFFIX,ipstack.com
 DOMAIN-SUFFIX,ipw.cn
+DOMAIN-SUFFIX,ip.me
+DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,myexternalip.com
 DOMAIN-SUFFIX,myip.com
 DOMAIN-SUFFIX,null-addr.biz
@@ -47,39 +51,17 @@ DOMAIN-SUFFIX,null-addr.org
 DOMAIN-SUFFIX,panopticlick.eff.org
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,skk.moe
-DOMAIN-SUFFIX,speedcheck.org
-DOMAIN-SUFFIX,speedtest.cn
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,surfshark.com
-DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,traceroute-online.com
-DOMAIN-SUFFIX,ustc.edu.cn
-DOMAIN-SUFFIX,vultr.com
+DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,whatismyipaddress.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,cdn.botfaqtor.ru
 DOMAIN-SUFFIX,gw.botfaqtor.ru
 DOMAIN-SUFFIX,5-182-5-41.botfaqtor.ru
 DOMAIN-SUFFIX,api-main.whox.is
-DOMAIN-SUFFIX,de.foursquare.com
-DOMAIN-SUFFIX,a.academia-assets.com
-DOMAIN-SUFFIX,a0.muscache.com
-DOMAIN-SUFFIX,zh.airbnb.com
-DOMAIN-SUFFIX,www.airbnb.com
-DOMAIN-SUFFIX,www.expedia.de
-DOMAIN-SUFFIX,www.academia.edu
-DOMAIN-SUFFIX,sb.scorecardresearch.com
-DOMAIN-SUFFIX,st.downdetectorapi.com
-DOMAIN-SUFFIX,ttt.sh
 DOMAIN-SUFFIX,ripe.net
-DOMAIN-SUFFIX,mail.yandex.ru
-DOMAIN-SUFFIX,disqus.com
-DOMAIN-SUFFIX,disquscdn.com
-DOMAIN-SUFFIX,tumblr.com
-DOMAIN-SUFFIX,ifconfig.co
-DOMAIN-SUFFIX,ifconfig.io
-DOMAIN-SUFFIX,ip.me
-DOMAIN-SUFFIX,ipwho.is
-DOMAIN-SUFFIX,whatismyip.com
-IP-CIDR,142.251.215.0/24,no-resolve
+DOMAIN-SUFFIX,whatsmydns.me
+DOMAIN-SUFFIX,asiassn.com
+DOMAIN-SUFFIX,surfsharkdns.com
+DOMAIN-SUFFIX,arin.net
