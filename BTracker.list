@@ -1,4 +1,5 @@
-# 拦截 BT Tracker 走直连，避免走代理炸流量
+# BT Tracker 强制直连
+# 不再使用 DOMAIN-KEYWORD,tracker，避免把分析/广告/业务域名里的 tracker 一并强制直连。
 DOMAIN-SUFFIX,opentrackr.org
 DOMAIN-SUFFIX,openbittorrent.com
 DOMAIN-SUFFIX,bt4g.com
@@ -8,4 +9,3 @@ DOMAIN-SUFFIX,leechers-paradise.org
 DOMAIN-SUFFIX,torrent.eu.org
 DOMAIN-SUFFIX,publicbt.com
 DOMAIN-SUFFIX,demonii.com
-DOMAIN-KEYWORD,tracker
