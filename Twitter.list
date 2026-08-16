@@ -1,0 +1,5 @@
+# Twitter / X 补充
+# 旧 Youtube.list 中的 199.16.158.0/24 实际属于 X/Twitter；改为其公布路由的完整 /22。
+IP-CIDR,199.16.156.0/22,no-resolve
+# 当前仍由 X/Twitter 使用的另一常见前缀，补充上游列表缺口。
+IP-CIDR,104.244.40.0/21,no-resolve
