@@ -21,3 +21,17 @@ DOMAIN,slides.google.com
 # Google Drive for desktop
 DOMAIN,fcmconnection.googleapis.com
 DOMAIN,signaler-pa.googleapis.com
+
+# Google Photos
+
+# Web
+DOMAIN,photos.google.com
+
+# Google Photos consumer backend
+DOMAIN,photosdata-pa.googleapis.com
+
+# Google Photos Library API
+DOMAIN,photoslibrary.googleapis.com
+
+# Google Photos Picker API
+DOMAIN,photospicker.googleapis.com
