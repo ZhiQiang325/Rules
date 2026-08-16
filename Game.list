@@ -1,0 +1,10 @@
+# 其他游戏补充
+# 从错误归类的 Steam / Proxy 规则中迁出。
+
+# Last War
+DOMAIN-SUFFIX,lastwar-serverlist-us-aws-ali.lastwargame.com
+DOMAIN-SUFFIX,te-receiver.lastwar.com
+
+# Capcom / Street Fighter
+DOMAIN-SUFFIX,capcom.com
+DOMAIN-SUFFIX,streetfighter.com
