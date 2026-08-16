@@ -1,0 +1,115 @@
+########## 核心 AI 服务 ##########
+
+# Claude (Anthropic)
+DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+# Colab / AI工具
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-SUFFIX,apis.google.com
+
+# Meta AI
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metademolab.com
+
+# Groq
+DOMAIN-SUFFIX,groq.com
+
+# Genspark、Dify
+DOMAIN-SUFFIX,genspark.ai
+DOMAIN-SUFFIX,difyai.com
+DOMAIN-SUFFIX,dify.ai
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
+DOMAIN,pplx-res.cloudinary.com
+
+# Poe
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+
+# xAI / Grok
+# 不使用 DOMAIN-SUFFIX,x.com，避免把整个 X/Twitter 吸进 AI 策略
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokipedia.com
+
+# Hugging Face
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+
+# Cursor
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursorapi.com
+
+# Windsurf / Codeium
+DOMAIN-SUFFIX,windsurf.com
+DOMAIN-SUFFIX,windsurf.build
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
+
+# Manus
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
+
+# 其他常见海外 AI 服务
+DOMAIN-SUFFIX,coderabbit.ai
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,deepwiki.com
+DOMAIN-SUFFIX,deepwiki.org
+DOMAIN-SUFFIX,anythingllm.com
+DOMAIN-SUFFIX,arena.ai
+DOMAIN-SUFFIX,chutes.ai
+DOMAIN-SUFFIX,crewai.com
+DOMAIN-SUFFIX,devin.ai
+DOMAIN-SUFFIX,duck.ai
+DOMAIN-SUFFIX,h2o.ai
+DOMAIN-SUFFIX,kiro.dev
+DOMAIN-SUFFIX,langchain.com
+DOMAIN-SUFFIX,lmstudio.ai
+DOMAIN-SUFFIX,lovart.ai
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,mozilla.ai
+DOMAIN-SUFFIX,ollama.com
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,qoder.com
+DOMAIN-SUFFIX,sider.ai
+DOMAIN-SUFFIX,tripo3d.ai
+DOMAIN,gateway.ai.cloudflare.com
+
+########## 辅助服务（可选） ##########
+
+# 身份验证 / 支付 / 错误监控
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,sentry.io
+
+# 用户交互 / 组件系统
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+
+########## 附加/社区/实验性 ##########
+
+# 原规则中已有，意图不够明确，因此保留
+DOMAIN-SUFFIX,ai-163cdn.com
+DOMAIN-SUFFIX,circumlunar.space
+DOMAIN-SUFFIX,vulpes.one
+DOMAIN-SUFFIX,mozz.us
+DOMAIN-SUFFIX,conman.org
+DOMAIN-SUFFIX,bortzmeyer.org
