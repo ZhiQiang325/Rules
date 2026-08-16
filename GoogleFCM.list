@@ -1,0 +1,6 @@
+# Google FCM 补充
+# 应与 blackmatrix7 GoogleFCM 一起放入 📢 FCM，且位于普通 Google 规则之前。
+DOMAIN-SUFFIX,fcm-xmpp.googleapis.com
+DOMAIN-SUFFIX,fcm.googleapis.com
+DOMAIN-SUFFIX,gcm-http.googleapis.com
+DOMAIN-SUFFIX,gcm-xmpp.googleapis.com
